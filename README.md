@@ -10,8 +10,9 @@ Google.
 
 ## Install
 
-`Thanks to Apple, I can not build an extension into a package unless I pay 99USD annually.`
-
+```
+Thanks to Apple the installation process is not very simple because I can not build an extension into a package unless I pay 99USD annually.
+```
 First please clone this repo using
 
 ``` 
